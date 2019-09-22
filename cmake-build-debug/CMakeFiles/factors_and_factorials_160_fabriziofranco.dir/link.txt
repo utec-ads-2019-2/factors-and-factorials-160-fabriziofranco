@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/factors_and_factorials_160_fabriziofranco.dir/main.cpp.o  -o factors_and_factorials_160_fabriziofranco 
